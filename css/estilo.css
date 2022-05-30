@@ -1,0 +1,26 @@
+body {background-color: black;}
+
+table{
+    border-collapse: collapse;
+    justify-content: center;
+}
+
+table tr th, table tr td {
+    border: 1px solid black;
+    background-image: linear-gradient(#CC3366,#CC33CC,#CC6633);
+    padding: 20px;
+    font-size: xx-large;   
+    justify-content: center;
+    text-align: center;
+}
+
+a button{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border: transparent;
+    border-radius: 10px;
+    background-color: lightpink;
+    color:black;
+
+}
